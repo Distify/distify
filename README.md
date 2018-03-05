@@ -10,7 +10,7 @@ and [my personal website](http://dylan736.weebly.com) made for my school project
 I am a 13 year old self-proclaimed computer enthusiast from near Birmingham, UK. I have little to no coding knowledge besides a few things I have taught myself - I can code HTML, but that is limited, and anyway, other languages are superior nowadays and more user-friendly. I guess that is what this website is for me, an experiment and a project for me to practise my skills, and who knows, one day I might need coding for future jobs.
 
 ```markdown
-Syntax highlighted code block
+This is some basic MD coding help I chucked in here to refer to later in case, you can ignore this. 
 
 # Header 1
 ## Header 2
@@ -27,12 +27,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+
+### 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Distify/distify/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you would like to contact me, to help me with my sites and knowledge on coding, or for general enquiries, here is [my Twitter](https://www.twitter.com/Distifyy), be sure to DM me or tweet at me. 
