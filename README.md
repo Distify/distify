@@ -31,7 +31,7 @@ This is some basic MD coding help I chucked in here to refer to later in case, y
 
 ### Code Dump Page
 
-This is the page where I dump useful HTML or MD code for use on your own website, here is [the link](distify.github.io/distify/page).
+This is the page where I dump useful HTML or MD code for use on your own website, here is [the link](distify/page).
 
 ### Contact
 
