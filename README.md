@@ -29,9 +29,9 @@ This is some basic MD coding help I chucked in here to refer to later in case, y
 
 
 
-### 
+### Code Dump Page
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Distify/distify/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is the page where I dump useful HTML or MD code for use on your own website, here is [the link](distify.github.io/distify/page).
 
 ### Contact
 
