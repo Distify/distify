@@ -1,0 +1,8 @@
+{
+  "name": "DistifyBot",
+  "version": "1.0.0",
+  "description": "Custom Discord Bot",
+  "main": "bot.js",
+  "author": "Distify",
+  "dependencies": {}
+}
